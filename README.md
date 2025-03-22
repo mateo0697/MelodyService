@@ -4,7 +4,7 @@ Desafio tecnico de Melodias:
   - Go
 
 - Forma de utilizarlo:
-  - Ingresar a la carpeta "" y ejecutar el comando go run .\main.go
+  - Ingresar a la carpeta "ValidadorDeMelodia" y ejecutar el comando go run .\main.go
   - Se habilitaran 2 endpoits:
     - POST /melody/validate: Validador de melodias
       - Espera siguiente formato de body:
